@@ -1,5 +1,5 @@
 {
-  "name": "MohaBot",
+  "name": "my-twitch-bot",
   "version": "1.0.0",
   "description": "A simple Twitch bot using tmi.js",
   "main": "index.js",
@@ -8,7 +8,5 @@
   },
   "dependencies": {
     "tmi.js": "^1.8.1"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }
